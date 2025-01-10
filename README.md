@@ -2,7 +2,9 @@
 借鉴了**[GNMM-mf](https://github.com/GNMM-mf/Piecewise-Trajectory-Optimization)**的工作
 
 ## 将代码克隆到ROS工作空间
-
+```
+git clone https://github.com/fsccc/moving_robot_hw.git
+```
 ## 编译 刷新
 ```
 catkin_make
